@@ -91,7 +91,7 @@
 
 ```
 ┌─────────────────────────────────┐
-│   UI Layer (Jetpack Compose)   │
+│   UI Layer (Jetpack Compose)    │
 │   - MainActivity                │
 │   - MainViewModel (MVVM)        │
 ├─────────────────────────────────┤
